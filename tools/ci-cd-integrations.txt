@@ -1,0 +1,6 @@
+# .github/workflows/a11y.yml
+- name: Run Lighthouse Audit
+  uses: foo-software/lighthouse-check-action@v2
+  with:
+    urls: https://test.com
+    minimumAccessibilityScore: 90

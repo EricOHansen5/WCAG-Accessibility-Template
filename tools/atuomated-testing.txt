@@ -1,0 +1,9 @@
+VS Code Extensions:
+- SonarQube for IDE: Linter to detect & fix coding issues locally in JS/TS, Python, PHP, Java, C, C++, C#, Go, IaC. Use with SonarQube (Server, Cloud) for optimal team performance.
+- axe Accessibility: Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native
+- Web Accessibility: Audit Web Accessibility issues in Visual Studio Code
+
+Angular Specific:
+- ng add @angular-eslint/schematics  # Adds accessibility linting
+- npm install axe-core --save-dev    # For automated audits
+
